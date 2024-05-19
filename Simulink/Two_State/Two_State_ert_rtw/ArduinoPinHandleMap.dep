@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ D:/THINGS/Matlab/Matlab_Practice/Relative_arduino/Two_State/Two_State_ert_rtw/rtwtypes.h
+
+D:/THINGS/Matlab/Matlab_Practice/Relative_arduino/Two_State/Two_State_ert_rtw/rtwtypes.h:
